@@ -14,7 +14,7 @@ mylist.append(3)
 print(mylist[0])
 for i in mylist:
     print (i)
-
+    
 ##Basic operators 
 
 ##Arithmetic operators
